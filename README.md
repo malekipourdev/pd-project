@@ -458,40 +458,9 @@ if torch.cuda.is_available():
 - **اینترنت اشیا:** ارتباط با سیستم‌های کنترل
 - **پایگاه داده:** مدیریت اطلاعات کاربران
 
-### از تحقیق تا محصول
-
-این پروژه نمونه‌ای موفق از تبدیل یک پایان‌نامه تحقیقاتی به محصول تجاری است:
-
-- **مرحله تحقیق:** پایان‌نامه کارشناسی ارشد (این مخزن)
-- **مرحله توسعه:** پیاده‌سازی سیستم کامل
-- **مرحله تجاری‌سازی:** راه‌اندازی [GateVision.ir](https://gatevision.ir/)
-- **نتیجه:** ارائه خدمات به مشتریان واقعی
-
-این موفقیت نشان می‌دهد که تحقیقات دانشگاهی می‌تواند منجر به حل مشکلات واقعی جامعه و ایجاد ارزش اقتصادی شود.
-
-## مراجع و منابع
-
-### منابع علمی
-
-1. Redmon, J., et al. (2016). "You Only Look Once: Unified, Real-Time Object Detection"
-2. Bochkovskiy, A., et al. (2020). "YOLOv4: Optimal Speed and Accuracy of Object Detection"
-3. Jocher, G., et al. (2022). "Ultralytics YOLOv5"
-
-### منابع فنی
-
-- [Ultralytics YOLO Documentation](https://docs.ultralytics.com/)
-- [OpenCV Documentation](https://docs.opencv.org/)
-- [PyTorch Documentation](https://pytorch.org/docs/)
-
-### کاربردهای مشابه
-
-- [Automatic License Plate Recognition Systems](https://scholar.google.com)
-- [Computer Vision in IoT Applications](https://scholar.google.com)
-- [Real-time Object Detection in Traffic Systems](https://scholar.google.com)
-
 ## محصول تجاری
 
-این پایان‌نامه به یک محصول تجاری موفق تبدیل شده است:
+این پایان‌نامه به یک محصول تجاری تبدیل شده است:
 
 ### 🚀 GateVision - سیستم کنترل دسترسی هوشمند
 
